@@ -1,0 +1,1 @@
+SELECT COUNT(rating) AS "Num of Ratings" FROM ratings WHERE rating = 10;
